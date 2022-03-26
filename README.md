@@ -10,3 +10,9 @@ Haiyang Li
 Jinkun Zhang
 Chen Feng
 Huiqing Chen
+
+--------------------------------------
+Note for Group 9 members:
+
+If you want to create personal branch,
+Please add Group9_ at the begining of branch name
